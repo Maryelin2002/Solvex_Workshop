@@ -1,0 +1,7 @@
+Aspectos a corregir de la solución sucia:
+
+Clase Speaker.cs
+
+- Nombres de las variables
+- Condicionales negativos
+- Comentarios innecesarios
