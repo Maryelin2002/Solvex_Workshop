@@ -7,3 +7,22 @@ Clase Speaker.cs
 - Comentarios innecesarios
 - Método registrar un orador muy largo
 - La intención del programa no es clara
+
+Cuando refactorizar a Código Limpio:
+
+- Necesitas trabajar con el código:
+  El código a refactorizar debe ser código con el que tu estás
+  trabajando actualmente.
+  No arriesgues cambiar código solamente por razones de limpieza.
+
+- El código es difícil de comprender y/o modificar:
+  Refactorizar es útil cuando a TI se te dificulta comprender o cambiar
+  el cógido.
+  Si eres tú que estás resolviendo el bug y crees que refactorizarlo lo hace
+  más claro, entonces refactorizalo.
+  Tomar en cuenta: no refactorizar de más.
+
+- Añade pruebas para la protección de regresión:
+  Antes de realizar cualquier cambio, asegúrate de tener suficiente
+  cobertura de prueba para asegurarte de que tus cambios no introduzcan
+  regresiones en el código.
