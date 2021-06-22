@@ -7,17 +7,35 @@ namespace Lab_2
         // Class Members => Fields, properties, methods
         static void Main(string[] args)
         {
-            Book libro = new Book();
-            Console.WriteLine($"{libro.Title} - {libro.NumberOfPages}");
+            Boolean continuar = true;
+            while(continuar)
+            {
 
-            Carro Toyota = new Carro();
-            Toyota.Modelo = "Rav4";
-            Toyota.Color = "Blanco";
-            Toyota.Year = 2019;
+                Book libro = new Book();
+                Console.WriteLine($"{libro.Title} - {libro.NumberOfPages}");
 
-            Toyota.acelerar();
+                Carro Toyota = new Carro();
+                Toyota.Modelo = "Rav4";
+                Toyota.Color = "Blanco";
+                Toyota.Year = 2019;
 
-            Saludo("Marye");
+                Toyota.acelerar();
+
+                Saludo("Marye");
+
+                Console.WriteLine("Desea reiniciar el programa? presione s -> si n -> no");
+                string option = Console.ReadLine();
+                switch(option)
+                {
+                    case "s":
+                        Console.Clear();
+                        break;
+                    case "n":
+                        continuar = false;
+                        break;
+                }
+            }
+
 
         }
 
