@@ -5,3 +5,5 @@ Clase Speaker.cs
 - Nombres de las variables
 - Condicionales negativos
 - Comentarios innecesarios
+- Método registrar un orador muy largo
+- La intención del programa no es clara
