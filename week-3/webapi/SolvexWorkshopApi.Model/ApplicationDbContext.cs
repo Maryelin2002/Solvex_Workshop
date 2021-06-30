@@ -2,20 +2,41 @@
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using SolvexWorkshopApi.Model.Entities;
 using SolvexWorkshopApi.Model.EntityMapper;
+using System.Threading.Tasks;
 
 namespace SolvexWorkshopApi.Model
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : DbContext, IApplicationDbContext
     {
-        public ApplicationDbContext(DbContextOptions options) : base(options)
+        public ApplicationDbContext()
         {
 
         }
+        public ApplicationDbContext(DbContextOptions options) : base(options)
+        {
+            ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
+        }
+
+        public DbSet<WorkShop> WorkShop { get; set; }
+        public DbSet<WorkShopDay> WorkShopDay { get; set; }
+        public DbSet<WorkShopMember> WorkShopMember { get; set; }
+        public DbSet<Document> Document { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new WorkShopMap());
             base.OnModelCreating(modelBuilder);
+            modelBuilder.ApplyConfiguration(new WorkShopDayMap());
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.ApplyConfiguration(new WorkShopMemberMap());
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.ApplyConfiguration(new DocumentMap());
+            base.OnModelCreating(modelBuilder);
+        }
+
+        public async Task<int> SaveChangesAsync()
+        {
+            return await base.SaveChangesAsync();
         }
     }
 }

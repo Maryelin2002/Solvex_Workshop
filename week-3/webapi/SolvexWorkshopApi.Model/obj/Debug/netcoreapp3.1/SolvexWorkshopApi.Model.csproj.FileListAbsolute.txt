@@ -1,4 +1,0 @@
-C:\Users\marye\solvex_workshop\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Model\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Core.dll
-C:\Users\marye\solvex_workshop\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Model\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.csprojAssemblyReference.cache
-C:\Users\marye\solvex_workshop\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Model\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.AssemblyInfoInputs.cache
-C:\Users\marye\solvex_workshop\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Model\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.AssemblyInfo.cs
