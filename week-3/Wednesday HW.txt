@@ -1,0 +1,4 @@
+TAREA para el MIERCOLES
+1 - Configurar EF (con todo y Dbsets)
+2 - Crear repositorios con RepositoryPattern
+3 - Crear metodos CRUD en los repositorios
