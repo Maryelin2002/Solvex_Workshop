@@ -17,8 +17,6 @@ namespace SolvexWorkshopApi.Model.EntityMapper
             builder.Property(x => x.DocumentTypeValue).IsRequired();
             builder.Property(x => x.Gender).IsRequired();
             builder.Property(x => x.Dob);
-            builder.Property(x => x.PhotoId);
-            builder.Property(x => x.Photo).IsRequired();
 
         }
     }

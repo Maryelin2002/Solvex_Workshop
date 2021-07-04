@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj": {
+    "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj",
         "projectName": "SolvexWorkshopApi.Services",
-        "projectPath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj": {
+    "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj",
         "projectName": "SolvexWorkshopApi.Tests",
-        "projectPath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj": {
-                "projectPath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj"
+              "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj": {
+                "projectPath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj"
               }
             }
           }

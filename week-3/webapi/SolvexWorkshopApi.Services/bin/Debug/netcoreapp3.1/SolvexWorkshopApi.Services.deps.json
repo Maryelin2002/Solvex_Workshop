@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SolvexWorkshopApi.Services/1.0.0": {
+        "runtime": {
+          "SolvexWorkshopApi.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolvexWorkshopApi.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

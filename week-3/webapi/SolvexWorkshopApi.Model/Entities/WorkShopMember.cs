@@ -1,6 +1,7 @@
 ﻿using SolvexWorkshopApi.Core.BaseModel;
 using SolvexWorkshopApi.Core.Enums;
 using System;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SolvexWorkshopApi.Model.Entities
 {
@@ -15,7 +16,9 @@ namespace SolvexWorkshopApi.Model.Entities
         public Gender Gender { get; set; }
         public DateTime? Dob { get; set; }
 
+        [NotMapped]
         public int? PhotoId { get; set; }
+        [NotMapped]
         public virtual Document Photo { get; set; }
     }
 }

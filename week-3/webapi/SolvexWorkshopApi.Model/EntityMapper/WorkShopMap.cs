@@ -16,7 +16,6 @@ namespace SolvexWorkshopApi.Model.EntityMapper
             builder.Property(x => x.Description).IsRequired();
             builder.Property(x => x.StartDate).IsRequired();
             builder.Property(x => x.EndDate);
-            builder.Property(x => x.Days);
         }
     }
 }

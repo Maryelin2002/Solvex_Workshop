@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Services\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Services.deps.json
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Services\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Services.dll
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Services\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Services.pdb
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Services\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Services.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Services\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Services.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Services\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Services.AssemblyInfo.cs
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Services\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Services\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Services.dll
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Services\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Services.pdb
