@@ -6,11 +6,14 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using SolvexWorkshopApi.Model;
+using SolvexWorkshopApi.Model.Repository;
 
 namespace SolvexWorkshopApi
 {
@@ -32,6 +35,9 @@ namespace SolvexWorkshopApi
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "SolvexWorkshopApi", Version = "v1" });
             });
+
+            services.AddDbContext<ApplicationDbContext>(item => item.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddScoped(typeof(IRepository<>), typeof(WorkShopRepository<>));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

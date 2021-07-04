@@ -7,11 +7,12 @@ using System.Text;
 
 namespace SolvexWorkshopApi.Model.Repository
 {
-    public class DocumentRepository<T> : IRepository<T> where T : BaseEntity
+    public class WorkShopMemberRepository<T> : IRepository<T> where T : BaseEntity
     {
         private readonly ApplicationDbContext _applicationDbContext;
         private DbSet<T> entities;
-        public DocumentRepository(ApplicationDbContext applicationDbContext)
+
+        public WorkShopMemberRepository(ApplicationDbContext applicationDbContext)
         {
             _applicationDbContext = applicationDbContext;
             entities = _applicationDbContext.Set<T>();

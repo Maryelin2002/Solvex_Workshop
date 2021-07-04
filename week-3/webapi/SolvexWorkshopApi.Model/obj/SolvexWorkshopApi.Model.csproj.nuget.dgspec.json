@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marye\\solvex_workshop\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\SolvexWorkshopApi.Model.csproj": {}
+    "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\SolvexWorkshopApi.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marye\\solvex_workshop\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj": {
+    "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marye\\solvex_workshop\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj",
         "projectName": "SolvexWorkshopApi.Core",
-        "projectPath": "C:\\Users\\marye\\solvex_workshop\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj",
-        "packagesPath": "C:\\Users\\marye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marye\\solvex_workshop\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\marye\\solvex_workshop\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\SolvexWorkshopApi.Model.csproj": {
+    "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\SolvexWorkshopApi.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marye\\solvex_workshop\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\SolvexWorkshopApi.Model.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\SolvexWorkshopApi.Model.csproj",
         "projectName": "SolvexWorkshopApi.Model",
-        "projectPath": "C:\\Users\\marye\\solvex_workshop\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\SolvexWorkshopApi.Model.csproj",
-        "packagesPath": "C:\\Users\\marye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marye\\solvex_workshop\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\SolvexWorkshopApi.Model.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\marye\\solvex_workshop\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj": {
-                "projectPath": "C:\\Users\\marye\\solvex_workshop\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj"
+              "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj": {
+                "projectPath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj"
               }
             }
           }
@@ -134,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

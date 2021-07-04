@@ -1,40 +1,65 @@
 ﻿using SolvexWorkshopApi.Core.BaseModel;
 using System;
 using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
+using System.Linq;
 using System.Text;
 
 namespace SolvexWorkshopApi.Model.Repository
 {
     public class WorkShopDayRepository<T> : IRepository<T> where T : BaseEntity
     {
+        private readonly ApplicationDbContext _applicationDbContext;
+        private DbSet<T> entities;
+
+        public WorkShopDayRepository(ApplicationDbContext applicationDbContext)
+        {
+            _applicationDbContext = applicationDbContext;
+            entities = _applicationDbContext.Set<T>();
+        }
         public T Get(int Id)
         {
-            throw new NotImplementedException();
+            return entities.SingleOrDefault(x => x.Id == Id);
         }
 
         public IEnumerable<T> GetAll()
         {
-            throw new NotImplementedException();
+            return entities.AsEnumerable();
         }
 
         public void Insert(T entity)
         {
-            throw new NotImplementedException();
+            if (entities == null)
+            {
+                throw new ArgumentNullException("entity");
+            }
+            entities.Add(entity);
+            _applicationDbContext.SaveChanges();
         }
 
         public void Remove(T entity)
         {
-            throw new NotImplementedException();
+            if (entities == null)
+            {
+                throw new ArgumentNullException("entity");
+            }
+            entities.Remove(entity);
+            _applicationDbContext.SaveChanges();
         }
 
         public void SaveChanges()
         {
-            throw new NotImplementedException();
+            _applicationDbContext.SaveChanges();
         }
 
         public void Update(T entity)
         {
-            throw new NotImplementedException();
+            if (entities == null)
+            {
+                throw new ArgumentNullException("entity");
+            }
+            entities.Update(entity);
+            _applicationDbContext.SaveChanges();
         }
     }
 }
