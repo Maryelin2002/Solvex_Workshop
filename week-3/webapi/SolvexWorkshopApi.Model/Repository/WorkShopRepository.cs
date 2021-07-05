@@ -44,7 +44,6 @@ namespace SolvexWorkshopApi.Model.Repository
                 throw new ArgumentNullException("entity");
             }
             entities.Remove(entity);
-            _applicationDbContext.SaveChanges();
         }
 
         public void SaveChanges()
