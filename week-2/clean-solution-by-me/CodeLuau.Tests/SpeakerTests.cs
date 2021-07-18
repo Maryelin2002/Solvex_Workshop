@@ -1,10 +1,8 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
-using System;
 
 namespace CodeLuau.Tests
 {
-	[TestClass]
+    [TestClass]
 	public class SpeakerTests
 	{
 		private FakeRepository repository = new FakeRepository();
