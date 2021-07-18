@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FuQldNC6krdqNPDKzQvp+eREM/w/TCMjBiY50RXpHzh4DEzaid4gVXZ/TeQ5b66DDD6M2MyMBKHGxn+yfe+21w==",
+  "dgSpecHash": "hPG2E2Ep5kFWKHA4nsL7++eBKCv/69eiep5qr5TAHlkITUU8S0cUw4Co5sVrLvX1CAE60jQHxjf67u47ZJJBnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Bl\\SolvexWorkshopApi.Bl.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Bl\\SolvexWorkshopApi.Bl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
