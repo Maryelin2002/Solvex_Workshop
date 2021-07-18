@@ -1609,6 +1609,19 @@
         "runtime": {
           "bin/placeholder/SolvexWorkshopApi.Model.dll": {}
         }
+      },
+      "SolvexWorkshopApi.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "SolvexWorkshopApi.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SolvexWorkshopApi.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolvexWorkshopApi.Services.dll": {}
+        }
       }
     }
   },
@@ -5970,12 +5983,18 @@
       "type": "project",
       "path": "../SolvexWorkshopApi.Model/SolvexWorkshopApi.Model.csproj",
       "msbuildProject": "../SolvexWorkshopApi.Model/SolvexWorkshopApi.Model.csproj"
+    },
+    "SolvexWorkshopApi.Services/1.0.0": {
+      "type": "project",
+      "path": "../SolvexWorkshopApi.Services/SolvexWorkshopApi.Services.csproj",
+      "msbuildProject": "../SolvexWorkshopApi.Services/SolvexWorkshopApi.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.EntityFrameworkCore.Design >= 5.0.7",
       "SolvexWorkshopApi.Model >= 1.0.0",
+      "SolvexWorkshopApi.Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -6008,6 +6027,9 @@
           "projectReferences": {
             "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\SolvexWorkshopApi.Model.csproj": {
               "projectPath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\SolvexWorkshopApi.Model.csproj"
+            },
+            "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj": {
+              "projectPath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj"
             }
           }
         }

@@ -14,6 +14,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using SolvexWorkshopApi.Model;
 using SolvexWorkshopApi.Model.Repository;
+using SolvexWorkshopApi.Services.Services;
 
 namespace SolvexWorkshopApi
 {
@@ -38,6 +39,7 @@ namespace SolvexWorkshopApi
 
             services.AddDbContext<ApplicationDbContext>(item => item.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped(typeof(IRepository<>), typeof(WorkShopRepository<>));
+            services.AddScoped<IWorkShopService, WorkShopService > ();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
