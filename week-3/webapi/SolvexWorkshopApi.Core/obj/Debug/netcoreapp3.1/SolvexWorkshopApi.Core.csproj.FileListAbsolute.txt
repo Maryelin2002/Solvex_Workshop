@@ -7,6 +7,7 @@ C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWork
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Core\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Core.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Core\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Core.dll
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Core\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Core.pdb
+<<<<<<< Updated upstream
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Core\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Core.deps.json
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Core\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Core.dll
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Core\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Core.pdb
@@ -16,3 +17,5 @@ C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWor
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Core\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Core.csproj.CoreCompileInputs.cache
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Core\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Core.dll
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Core\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Core.pdb
+=======
+>>>>>>> Stashed changes

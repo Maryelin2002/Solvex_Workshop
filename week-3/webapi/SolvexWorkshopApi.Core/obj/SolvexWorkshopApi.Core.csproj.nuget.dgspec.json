@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\marye\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\marye\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj",
         "packagesPath": "C:\\Users\\marye\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\marye\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\obj\\",
+=======
+    "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj",
+        "projectName": "SolvexWorkshopApi.Core",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\obj\\",
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marye\\AppData\\Roaming\\NuGet\\NuGet.Config",

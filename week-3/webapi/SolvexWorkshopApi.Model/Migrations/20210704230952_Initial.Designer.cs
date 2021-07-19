@@ -9,7 +9,7 @@ using SolvexWorkshopApi.Model;
 
 namespace SolvexWorkshopApi.Model.Migrations
 {
-    [DbContext(typeof(ApplicationDbContext))]
+    [DbContext(typeof(WorkShopContext))]
     [Migration("20210704230952_Initial")]
     partial class Initial
     {

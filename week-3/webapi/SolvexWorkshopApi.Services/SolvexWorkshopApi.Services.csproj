@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SolvexWorkshopApi.Model\SolvexWorkshopApi.Model.csproj" />
+    <ProjectReference Include="..\SolvexWorkshopApi.Bl\SolvexWorkshopApi.Bl.csproj" />
   </ItemGroup>
 
 </Project>

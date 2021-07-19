@@ -1582,6 +1582,19 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "SolvexWorkshopApi.Bl/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "SolvexWorkshopApi.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SolvexWorkshopApi.Bl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolvexWorkshopApi.Bl.dll": {}
+        }
+      },
       "SolvexWorkshopApi.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1609,6 +1622,22 @@
         "runtime": {
           "bin/placeholder/SolvexWorkshopApi.Model.dll": {}
         }
+<<<<<<< Updated upstream
+=======
+      },
+      "SolvexWorkshopApi.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "SolvexWorkshopApi.Bl": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SolvexWorkshopApi.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolvexWorkshopApi.Services.dll": {}
+        }
+>>>>>>> Stashed changes
       }
     }
   },
@@ -5961,6 +5990,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "SolvexWorkshopApi.Bl/1.0.0": {
+      "type": "project",
+      "path": "../SolvexWorkshopApi.Bl/SolvexWorkshopApi.Bl.csproj",
+      "msbuildProject": "../SolvexWorkshopApi.Bl/SolvexWorkshopApi.Bl.csproj"
+    },
     "SolvexWorkshopApi.Core/1.0.0": {
       "type": "project",
       "path": "../SolvexWorkshopApi.Core/SolvexWorkshopApi.Core.csproj",
@@ -5975,7 +6009,11 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.EntityFrameworkCore.Design >= 5.0.7",
+<<<<<<< Updated upstream
       "SolvexWorkshopApi.Model >= 1.0.0",
+=======
+      "SolvexWorkshopApi.Services >= 1.0.0",
+>>>>>>> Stashed changes
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -5985,11 +6023,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "C:\\Users\\marye\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi\\SolvexWorkshopApi.csproj",
       "projectName": "SolvexWorkshopApi",
       "projectPath": "C:\\Users\\marye\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi\\SolvexWorkshopApi.csproj",
       "packagesPath": "C:\\Users\\marye\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marye\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi\\SolvexWorkshopApi.csproj",
+      "projectName": "SolvexWorkshopApi",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi\\SolvexWorkshopApi.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6006,8 +6052,13 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+<<<<<<< Updated upstream
             "C:\\Users\\marye\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\SolvexWorkshopApi.Model.csproj": {
               "projectPath": "C:\\Users\\marye\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Model\\SolvexWorkshopApi.Model.csproj"
+=======
+            "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj"
+>>>>>>> Stashed changes
             }
           }
         }

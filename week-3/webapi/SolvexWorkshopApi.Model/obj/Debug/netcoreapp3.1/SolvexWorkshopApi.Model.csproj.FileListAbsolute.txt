@@ -13,6 +13,7 @@ C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWork
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Model\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.dll
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Model\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.pdb
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Model\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.genruntimeconfig.cache
+<<<<<<< Updated upstream
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Model\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.deps.json
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Model\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.runtimeconfig.json
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Model\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.runtimeconfig.dev.json
@@ -28,3 +29,5 @@ C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWor
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Model\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.dll
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Model\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.pdb
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Model\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.genruntimeconfig.cache
+=======
+>>>>>>> Stashed changes

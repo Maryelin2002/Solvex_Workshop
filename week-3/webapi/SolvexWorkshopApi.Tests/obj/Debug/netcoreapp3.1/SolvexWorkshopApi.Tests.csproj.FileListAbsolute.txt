@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Tests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Tests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Tests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
@@ -245,3 +246,5 @@ C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWor
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Tests\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Tests.dll
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Tests\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Tests.pdb
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Tests\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Tests.genruntimeconfig.cache
+=======
+>>>>>>> Stashed changes

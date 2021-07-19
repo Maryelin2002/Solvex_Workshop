@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.deps.json
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.dll
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.pdb
@@ -12,6 +13,8 @@ C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWork
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.csproj.CopyComplete
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.dll
 C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.pdb
+=======
+>>>>>>> Stashed changes
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.deps.json
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.dll
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.pdb
@@ -26,3 +29,20 @@ C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWor
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.csproj.CopyComplete
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.dll
 C:\Users\marye\Source\Repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.pdb
+<<<<<<< Updated upstream
+=======
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.deps.json
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.dll
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.pdb
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Core.dll
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.dll
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Model.pdb
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\bin\Debug\netcoreapp3.1\SolvexWorkshopApi.Core.pdb
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.AssemblyInfo.cs
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.csproj.CopyComplete
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.dll
+C:\Users\USER\source\repos\Maryelin2002\Solvex_Workshop\week-3\webapi\SolvexWorkshopApi.Bl\obj\Debug\netcoreapp3.1\SolvexWorkshopApi.Bl.pdb
+>>>>>>> Stashed changes

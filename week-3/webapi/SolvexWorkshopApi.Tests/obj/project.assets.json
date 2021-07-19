@@ -1841,6 +1841,19 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
+      "SolvexWorkshopApi.Bl/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "SolvexWorkshopApi.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SolvexWorkshopApi.Bl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolvexWorkshopApi.Bl.dll": {}
+        }
+      },
       "SolvexWorkshopApi.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1873,7 +1886,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "SolvexWorkshopApi.Model": "1.0.0"
+          "SolvexWorkshopApi.Bl": "1.0.0"
         },
         "compile": {
           "bin/placeholder/SolvexWorkshopApi.Services.dll": {}
@@ -6559,6 +6572,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "SolvexWorkshopApi.Bl/1.0.0": {
+      "type": "project",
+      "path": "../SolvexWorkshopApi.Bl/SolvexWorkshopApi.Bl.csproj",
+      "msbuildProject": "../SolvexWorkshopApi.Bl/SolvexWorkshopApi.Bl.csproj"
+    },
     "SolvexWorkshopApi.Core/1.0.0": {
       "type": "project",
       "path": "../SolvexWorkshopApi.Core/SolvexWorkshopApi.Core.csproj",
@@ -6590,11 +6608,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "C:\\Users\\marye\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj",
       "projectName": "SolvexWorkshopApi.Tests",
       "projectPath": "C:\\Users\\marye\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj",
       "packagesPath": "C:\\Users\\marye\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marye\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj",
+      "projectName": "SolvexWorkshopApi.Tests",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6611,8 +6637,13 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+<<<<<<< Updated upstream
             "C:\\Users\\marye\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj": {
               "projectPath": "C:\\Users\\marye\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj"
+=======
+            "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Services\\SolvexWorkshopApi.Services.csproj"
+>>>>>>> Stashed changes
             }
           }
         }

@@ -8,7 +8,7 @@ using SolvexWorkshopApi.Model;
 
 namespace SolvexWorkshopApi.Model.Migrations
 {
-    [DbContext(typeof(ApplicationDbContext))]
+    [DbContext(typeof(WorkShopContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

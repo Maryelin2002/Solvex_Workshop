@@ -13,7 +13,11 @@
   </ItemGroup>
 
   <ItemGroup>
+<<<<<<< Updated upstream
     <ProjectReference Include="..\SolvexWorkshopApi.Model\SolvexWorkshopApi.Model.csproj" />
+=======
+    <ProjectReference Include="..\SolvexWorkshopApi.Services\SolvexWorkshopApi.Services.csproj" />
+>>>>>>> Stashed changes
   </ItemGroup>
 
 </Project>

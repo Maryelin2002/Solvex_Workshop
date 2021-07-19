@@ -9,7 +9,7 @@ using SolvexWorkshopApi.Model;
 
 namespace SolvexWorkshopApi.Model.Migrations
 {
-    [DbContext(typeof(ApplicationDbContext))]
+    [DbContext(typeof(WorkShopContext))]
     [Migration("20210718104622_DesktopMigration")]
     partial class DesktopMigration
     {

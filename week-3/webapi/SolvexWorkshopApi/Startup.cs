@@ -36,8 +36,16 @@ namespace SolvexWorkshopApi
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "SolvexWorkshopApi", Version = "v1" });
             });
 
-            services.AddDbContext<ApplicationDbContext>(item => item.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<WorkShopContext>
+                (item => item.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped(typeof(IRepository<>), typeof(WorkShopRepository<>));
+<<<<<<< Updated upstream
+=======
+            services.AddScoped<IWorkShopService, WorkShopService >();
+            services.AddScoped<IWorkShopMember, WorkShopMemberService>();
+            services.AddScoped<IWorkShopDay, WorkShopDayService>();
+            services.AddScoped<IDocumentService, DocumentService>();
+>>>>>>> Stashed changes
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

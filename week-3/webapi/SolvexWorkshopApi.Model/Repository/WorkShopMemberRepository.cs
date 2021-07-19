@@ -9,10 +9,10 @@ namespace SolvexWorkshopApi.Model.Repository
 {
     public class WorkShopMemberRepository<T> : IRepository<T> where T : BaseEntity
     {
-        private readonly ApplicationDbContext _applicationDbContext;
+        private readonly WorkShopContext _applicationDbContext;
         private DbSet<T> entities;
 
-        public WorkShopMemberRepository(ApplicationDbContext applicationDbContext)
+        public WorkShopMemberRepository(WorkShopContext applicationDbContext)
         {
             _applicationDbContext = applicationDbContext;
             entities = _applicationDbContext.Set<T>();
