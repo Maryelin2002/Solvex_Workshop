@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wNeVQIeOIlT3hozMLW5PcPFe4An6q6Nc3PZKqUtRdWnxMJG3j6+BAyQ9xOBkyoQ3R0kk6QY1O/tXUwYxUiV+Hw==",
+  "dgSpecHash": "eqlN2KIFsmyQK8PJk9TuCnKEzhrRyvcyskUey7okmFraoPb0I55fBSkNNsxPC/f0VEyMcgvxezlf4Os4+XsDBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Core\\SolvexWorkshopApi.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.7\\microsoft.entityframeworkcore.5.0.7.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.7\\microsoft.entityframeworkcore.abstractions.5.0.7.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Chn5Fb0FhshkVseAjVu54BgtlGg71gKs72nqH12Egvv/vvkkhdybPMlxLOK/SEs4Z/l5uB/wXf+0jHqhsVK/fA==",
+  "dgSpecHash": "rQgWGkbbVe3ISjh3pRrH4LqsdkLLXdCUVnn7yb61HgiSlksdjbd8ZmdekMFl0N9i78POdPTBkT5UpQwFsRQ+8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi\\SolvexWorkshopApi.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi\\SolvexWorkshopApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -5,7 +5,7 @@ using SolvexWorkshopApi.Model.Entities;
 
 namespace SolvexWorkshopApi.Services.Services
 {
-    interface IWorkShopMember
+    public interface IWorkShopMember
     {
         IEnumerable<WorkShopMember> GetAllWorkShopMembers();
 

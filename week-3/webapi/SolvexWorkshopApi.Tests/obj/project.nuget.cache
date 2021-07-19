@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k3ddBNnzCNlbPkT+sN1C32CXgKSxcNnO7U5XU4HOWJZJh1dc/o0OBdcyB9lA14LFoaQLPCH8ZtBqm/PigX3a+Q==",
+  "dgSpecHash": "QO4NFNwQbhx7AQq8UoTztU5u7tQ0f+Ms34q6fzyrPDjvT3LOQ//7EY0bJp+P34tiLm7Hl+e7c8e6EbJiPeETbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\Maryelin2002\\Solvex_Workshop\\week-3\\webapi\\SolvexWorkshopApi.Tests\\SolvexWorkshopApi.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
